@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"AzureIoT","ComponentId":"819255ff-8640-41fd-aea7-f85d34c491d5","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"AllowedConnections":["global.azure-devices-provisioning.net","Theshowerheads.azure-devices.net"],"Gpio":[12,13,23,9]},"ApplicationType":"Default","TargetApplicationRuntimeVersion":2}

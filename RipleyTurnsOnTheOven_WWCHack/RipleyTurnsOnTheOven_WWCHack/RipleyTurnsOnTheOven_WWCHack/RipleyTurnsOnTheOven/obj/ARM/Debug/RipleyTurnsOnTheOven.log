@@ -1,0 +1,30 @@
+﻿  Validating project app_manifest.json
+  app_manifest.json IoT Hub/Central parameters exist.
+  Azure Sphere Utility version 19.5.4.53731
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Sunday, 06 October 2019 20:45:04 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         819255ff-8640-41fd-aea7-f85d34c491d5
+      Image ID:             b726e1a3-fe23-4e73-8d08-5d7fc08947e9
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           AzureIoT
+      Built On (UTC):       10/6/2019 8:45:05 PM
+      Built On (Local):     10/6/2019 1:45:05 PM
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 2
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\Users\venka\Desktop\WomenWhoCode\RipleyTurnsOnTheOven_WWCHack\RipleyTurnsOnTheOven_WWCHack\RipleyTurnsOnTheOven_WWCHack\RipleyTurnsOnTheOven\bin\ARM\Debug\RipleyTurnsOnTheOven.imagepackage 
+  Command completed successfully in 00:00:01.0336174. 
